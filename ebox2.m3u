@@ -1,0 +1,131 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2", (OFFLINE) Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="EBox2", (ONLINE) Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjuaTap.png" group-title="EBox2", (OFFLINE) ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="EBox2", (OFFLINE) DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="EBox2", (ONLINE) Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="EBox2", (ONLINE) Desh TV
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="EBox2", (OFFLINE) Duronto TV
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="EBox2", (OFFLINE) Ekattor
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="EBox2", (OFFLINE) Gaan Bangla
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="EBox2", (ONLINE) GTV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="EBox2", (OFFLINE) Independent
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="EBox2", (OFFLINE) MOHONA TV
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="EBox2", (OFFLINE) MY TV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="EBox2", (ONLINE) Nagorik TV
+http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="EBox2", (OFFLINE) News 24
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="EBox2", (OFFLINE) RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="EBox2", (OFFLINE) SATV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="EBox2", (OFFLINE) Shomoy TV
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="EBox2", (OFFLINE) Jalsha Movies SD
+http://103.49.168.172:8081/ebox/in_jalshamovies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="EBox2", (OFFLINE) Colors Bangla HD
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="EBox2", (OFFLINE) Ruposhi Bangla
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="EBox2", (ONLINE) Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjuaTap.png" group-title="EBox2", (OFFLINE) ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="EBox2", (OFFLINE) DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="EBox2", (ONLINE) Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="EBox2", (ONLINE) Desh TV
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="EBox2", (OFFLINE) Ad Sports 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="EBox2", (ONLINE) Sony TV
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="EBox2", (ONLINE) Zee Cinema
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="EBox2", (ONLINE) Star Bharat
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="EBox2", (ONLINE) TLC HD Hindi
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WataQBL.png" group-title="EBox2", (OFFLINE) &Xplore
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="EBox2", (OFFLINE) Nat Geo Wild
+http://103.49.168.172:8081/ebox/in_natgeo_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox2", (OFFLINE) Animal Planet SD
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="EBox2", (OFFLINE) Sony BBC Earth
+http://103.49.168.172:8081/ebox/in_bbc_earth_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="EBox2", (ONLINE) Movies Now
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="EBox2", (ONLINE) Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="EBox2", (OFFLINE) & TV
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="EBox2", (OFFLINE) & Pictures HD
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="EBox2", (ONLINE) BBC World
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="EBox2", (OFFLINE) Al Jazeera
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="EBox2", (OFFLINE) DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+
